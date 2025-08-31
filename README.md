@@ -1,0 +1,1 @@
+This project is a simple Sentiment Analysis NLP App built using Streamlit and TextBlob. It allows users to enter any text and instantly analyzes its sentiment, classifying it as positive, negative, or neutral along with a sentiment score. The app provides a clean, interactive UI and can be easily deployed on Streamlit Cloud for real-time use.
